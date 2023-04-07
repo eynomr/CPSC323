@@ -1,0 +1,11 @@
+Token		|	Lexeme
+KEYWORD		|	while
+SEPERATOR		|	(
+IDENTIFIER		|	t
+OPERATOR		|	<
+IDENTIFIER		|	lower
+SEPERATOR		|	)
+IDENTIFIER		|	r
+OPERATOR		|	=
+REAL		|	28.00
+SEPERATOR		|	;
